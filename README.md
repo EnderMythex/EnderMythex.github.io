@@ -1,4 +1,4 @@
-<h1 align="center">ender.pet</h1>
+<h1 align="center">EnderMythex.github.io</h1>
 
 <h6 align="center">OFFICIAL EnderMythex Website. Made With 💗 by Endermythex</h6>
 
