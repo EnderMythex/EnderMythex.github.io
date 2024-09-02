@@ -4,8 +4,8 @@
 
 <p align="center">
   <img alt="Uptime Robot status" src="https://img.shields.io/uptimerobot/status/m797585685-426f198606d5c126a01cc7f5">
-  <img alt="GitHub deployments" src="https://img.shields.io/github/deployments/EnderMythex/ender.pet/github-pages">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/EnderMythex/ender.pet">
+  <img alt="GitHub deployments" src="https://img.shields.io/github/deployments/EnderMythex/EnderMythex.github.io/github-pages">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/EnderMythex/EnderMythex.github.io">
 </p>
 
 <h1 align="center">Links</h1>
